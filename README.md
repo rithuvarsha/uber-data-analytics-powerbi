@@ -61,15 +61,15 @@ Power BI dashboard analyzing Uber ride data to uncover trip patterns, cancellati
     •	Revenue by Vehicle Type: Identifies Auto and Bike as leading categories.
     •	Revenue per Payment Method: Confirms UPI as highest grossing mode.
     •	Profitability Curve: Shows long-distance rides generate better margins.
-6. Recommended Action - 
-    •	Drivers cancel most rides (72%) - Give rewards to reliable drivers and warn frequent cancellers.
-    •	More cancellations in evening hours - Offer extra pay or bonuses for drivers at peak hours.
-    •	Many customer-related cancellations - Improve pickup info and add quick driver contact option.
-    •	Low ratings in some areas - Train drivers and fix pickup issues in those zones
-    •	Long pickup delays - Improve map routes and pickup time accuracy.
-    •	Some routes lose more money - Give incentives for top loss routes to increase trips.
-    •	UPI gives highest revenue - Promote UPI payments with discounts or rewards.
-    •	Long trips earn more profit - Give loyalty points or offers for long rides.
+6. Recommended Action -
+•	Drivers cancel most rides (72%) - Give rewards to reliable drivers and warn frequent cancellers.
+•	More cancellations in evening hours - Offer extra pay or bonuses for drivers at peak hours.
+•	Many customer-related cancellations - Improve pickup info and add quick driver contact option.
+•	Low ratings in some areas - Train drivers and fix pickup issues in those zones
+•	Long pickup delays - Improve map routes and pickup time accuracy.
+•	Some routes lose more money - Give incentives for top loss routes to increase trips.
+•	UPI gives highest revenue - Promote UPI payments with discounts or rewards.
+•	Long trips earn more profit - Give loyalty points or offers for long rides.
 
 
    
